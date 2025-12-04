@@ -1,5 +1,3 @@
-<img width="734" height="272" alt="image" src="https://github.com/user-attachments/assets/7867e19a-0509-4e24-9d6c-4931d7900541" />
-
-![alt text](https://cdn.discordapp.com/attachments/1276949065120219157/1445832198136791170/Untitled1232_20251204014012.png?ex=6931c7aa&is=6930762a&hm=ef8b4189182bb835fca99d78b18f6b7c6f650edc03c25a88e4e6bb69f74da298&://url/to/img.png)
-
-<img width="734" height="272" alt="image" src="https://github.com/user-attachments/assets/7867e19a-0509-4e24-9d6c-4931d7900541" />
+<img width="735" height="448" alt="image" src="https://github.com/user-attachments/assets/e0fc9959-93ba-44ce-a6d9-bc7781f35278" />
+<img width="735" height="448" alt="image" src="https://github.com/user-attachments/assets/a045738d-0d97-4abf-9945-f73006c2f65a" />
+<img width="735" height="448" alt="image" src="https://github.com/user-attachments/assets/e4d3282f-8ca4-43f9-a69a-e53d186e7b5d" />
